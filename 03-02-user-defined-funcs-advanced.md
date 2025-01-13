@@ -1,5 +1,8 @@
-## 1. **What Are User-Defined Functions?**
+# Functions-advanced
+  ### Go back to [JavaScript Tutorial](README.md)
 
+## 1. **What Are User-Defined Functions?**
+  
 A **user-defined function** is a reusable block of code written by a programmer to perform a specific task. Unlike built-in functions (like `Math.max()`), these functions are explicitly defined by you.
 
 ### Syntax
