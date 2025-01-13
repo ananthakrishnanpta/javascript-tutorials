@@ -1,5 +1,5 @@
 # JavaScript Functions: A Comprehensive Guide
-  ### Go back to # [JavaScript Tutorial](README.md)
+  ### Go back to [JavaScript Tutorial](README.md)
 ---
 
 ## What are Functions in JavaScript?
