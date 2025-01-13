@@ -1,5 +1,7 @@
 # JavaScript Built-in Functions
 
+  ### Go back to [JavaScript Tutorial](README.md)
+
 JavaScript provides a variety of built-in functions for different tasks. These are organized into categories based on their use cases:
 
 1. **Global Functions**  
