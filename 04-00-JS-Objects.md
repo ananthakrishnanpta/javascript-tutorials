@@ -1,5 +1,6 @@
-# Detailed Guide to JavaScript Objects
-
+# JavaScript Objects
+  ### Go back to [JavaScript Tutorial](README.md)
+  
 ## 1. **What Are JavaScript Objects?**
 
 ### **Definition:**
