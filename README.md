@@ -1,5 +1,5 @@
-# JavaScript Tutorial
-
+# JavaScript Tutorials
+---
 ## Table of Contents
 
 1. [01 - Introduction to JavaScript](01-intro.md)
@@ -13,6 +13,7 @@
 5. [05 - Document Object Model (DOM)](05-00-DOM.md)
    - [Advanced DOM](05-01-DOM-Advanced.md)
 6. [06 - Modern JavaScript](06-00-modern-js.md)
+   - [Advanced Modern JavaScript](06-01-modernJS-advanced.md)
 
 ---
 
@@ -29,9 +30,6 @@
 - [05 - Document Object Model (DOM)](05-00-DOM.md)
   - [Advanced DOM](05-01-DOM-Advanced.md)
 - [06 - Modern JavaScript](06-00-modern-js.md)
-
----
-
-## About the Repository
+  - [Advanced Modern JavaScript](06-01-modernJS-advanced.md)
 
 ---
