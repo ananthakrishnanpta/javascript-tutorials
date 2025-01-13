@@ -1,4 +1,4 @@
-#[JavaScript Tutorial](README.md): Conditional Statements and Looping
+# [JavaScript Tutorial](README.md): Conditional Statements and Looping
 ---
 
 ## Table of Contents
