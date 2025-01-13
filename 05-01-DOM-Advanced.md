@@ -1,4 +1,5 @@
 # **Advanced DOM Use Cases**
+  ### Go back to [JavaScript Tutorial](README.md)
 
 #### 1. **Dynamic DOM Updates Using `innerHTML` and `textContent`**
 
