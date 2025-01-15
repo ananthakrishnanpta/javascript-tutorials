@@ -1,5 +1,7 @@
 # **JavaScript Animations Tutorial**
-
+---
+  ### Go back to [JavaScript Tutorial](README.md)
+---
 ### **1. Project Setup**
 
 Let’s start by structuring our project with the following files:
