@@ -224,9 +224,9 @@ In this tutorial, you learned how to create animations using **JavaScript** and 
 - **CSS Keyframe Animations**: Defining complex animations with multiple steps, like moving an element and changing colors.
 - **JavaScript Animations**: Manipulating elements with JavaScript, changing properties like **transform** and **background-color** dynamically.
 
-### **Next Steps:**
+### **More things to explore:**
 
-You can extend this tutorial by adding:
+
 - More complex animations (e.g., rotating elements, fading in/out).
 - Integrating animation libraries like **GSAP** or **Anime.js** for even more powerful animation features.
 - Animating multiple elements with delays and durations.
