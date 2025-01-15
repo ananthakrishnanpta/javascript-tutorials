@@ -242,15 +242,15 @@ $.ajax({
 
 ## **Modern jQuery Usage and Industry Trends**
 
-In recent years, jQuery has been largely overshadowed by modern JavaScript frameworks like **React**, **Vue.js**, and **Angular**, which provide more structure and enhanced capabilities for building interactive user interfaces. However, jQuery still has a place in legacy projects, quick prototypes, and small-scale websites.
+In recent years, jQuery has been largely overshadowed by modern JavaScript frameworks like [**React**](https://github.com/ananthakrishnanpta/reactjs-tutorials/blob/main/README.md), **Vue.js**, and **Angular**, which provide more structure and enhanced capabilities for building interactive user interfaces. However, jQuery still has a place in legacy projects, quick prototypes, and small-scale websites.
 
 ### **Industry Standards:**
-- **Single Page Applications (SPA):** Modern frameworks like **React** and **Vue.js** handle DOM updates, routing, and state management much more efficiently than jQuery.
+- **Single Page Applications (SPA):** Modern frameworks like [**React**](https://github.com/ananthakrishnanpta/reactjs-tutorials/blob/main/README.md) and **Vue.js** handle DOM updates, routing, and state management much more efficiently than jQuery.
 - **AJAX & REST APIs:** jQuery is still used for making AJAX calls to REST APIs, but it’s often handled with native JavaScript **Fetch API** in modern development.
 - **Event delegation**: jQuery’s event delegation allows attaching events to dynamically created elements, which is still valuable when working with large applications.
 
 ### **Modern Trends:**
 - While jQuery can still be useful for smaller tasks, many developers prefer **Vanilla JavaScript** or **ES6+ features** (like **async/await**, **Promises**, and **Fetch API**) instead of jQuery.
-- In terms of performance and maintainability, frameworks like **React** or **Vue** offer better scalability for larger, complex applications.
+- In terms of performance and maintainability, frameworks like [**React**](https://github.com/ananthakrishnanpta/reactjs-tutorials/blob/main/README.md) or **Vue** offer better scalability for larger, complex applications.
 
 ---
