@@ -1,6 +1,8 @@
-# JavaScript Learning Tutorial Index
+# JavaScript Tutorial
 
-Welcome to the JavaScript Learning Repository! This collection of tutorials is designed to take you through various JavaScript concepts, from the basics to advanced topics. Each file in this repository covers a specific topic and provides examples to help you understand and practice JavaScript.
+```
+Author - [Anantha Krishnan PTA](https://www.linkedin.com/in/anantha-krishnan-2603111)
+```
 
 ## Table of Contents
 
