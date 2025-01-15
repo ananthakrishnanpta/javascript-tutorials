@@ -1,8 +1,8 @@
 # JavaScript Tutorial
 
-```
-Author - [Anantha Krishnan PTA](https://www.linkedin.com/in/anantha-krishnan-2603111)
-```
+
+`Author` - [Anantha Krishnan PTA](https://www.linkedin.com/in/anantha-krishnan-2603111)
+
 
 ## Table of Contents
 
