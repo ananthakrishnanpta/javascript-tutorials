@@ -1,5 +1,7 @@
 # **jQuery and AJAX Tutorial**
-
+---
+  ### Go back to [JavaScript Tutorial](README.md)
+---
 ---
 
 ## **Table of Contents**
